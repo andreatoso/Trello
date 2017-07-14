@@ -220,7 +220,12 @@ a:hover {
   font-weight: 600;
   text-transform: uppercase;
   margin-top: 15px;
-  box-shadow: 0 20px 30px -10px rgba(72, 134, 255, 0.49); }
+  box-shadow: 0 20px 30px -10px rgba(72, 134, 255, 0.49);
+  transition: 0.25s; }
+
+.find-out-button:hover {
+  box-shadow: 0 20px 30px -10px #4886ff;
+  transition: 0.25s; }
 
 .clients-img {
   height: auto;
