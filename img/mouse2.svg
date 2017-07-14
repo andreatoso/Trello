@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="392px" height="520px" viewBox="0 0 392 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.8%" y="-1.0%" width="103.6%" height="102.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mouse" filter="url(#filter-1)" transform="translate(4.000000, 2.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <path d="M256,0 L128,0 C57.417,0 0,57.417 0,128 L0,320 C0,425.865 86.135,512 192,512 C297.865,512 384,425.865 384,320 L384,128 C384,57.417 326.583,0 256,0 Z M234.667,170.667 C234.667,194.198 215.532,213.334 192,213.334 C168.468,213.334 149.333,194.199 149.333,170.667 L149.333,106.667 C149.333,83.135 168.469,64 192,64 C215.531,64 234.667,83.135 234.667,106.667 L234.667,170.667 L234.667,170.667 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
